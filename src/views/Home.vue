@@ -20,7 +20,7 @@ import PartnerLogo from '@/components/PartnerLogo.vue';
 import Footer from '@/components/Footer.vue';
 
 export default {
-  name: 'Home',
+  name: 'home',
   components: {
     HeaderShayna,
     HeroShayna,
